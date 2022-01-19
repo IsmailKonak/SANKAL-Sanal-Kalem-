@@ -19,7 +19,7 @@ SANKAL (Sanal Kalem), pandemi döneminde online eğitim için geliştirdiğim, �
 
 ### **Ana Sayfa :**
 
-![Ana Sayfa](pics/Ana-sayfa.png?raw=true "Ana Sayfa")
+![Ana Sayfa](pics/Ana-Sayfa.png?raw=true "Ana Sayfa")
 
 <br>
 
